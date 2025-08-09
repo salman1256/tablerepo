@@ -1,0 +1,14 @@
+D:\DevopsTraining\Day-1\FirstConApp\bin\Debug\net8.0\FirstConApp.exe
+D:\DevopsTraining\Day-1\FirstConApp\bin\Debug\net8.0\FirstConApp.deps.json
+D:\DevopsTraining\Day-1\FirstConApp\bin\Debug\net8.0\FirstConApp.runtimeconfig.json
+D:\DevopsTraining\Day-1\FirstConApp\bin\Debug\net8.0\FirstConApp.dll
+D:\DevopsTraining\Day-1\FirstConApp\bin\Debug\net8.0\FirstConApp.pdb
+D:\DevopsTraining\Day-1\FirstConApp\obj\Debug\net8.0\FirstConApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\DevopsTraining\Day-1\FirstConApp\obj\Debug\net8.0\FirstConApp.AssemblyInfoInputs.cache
+D:\DevopsTraining\Day-1\FirstConApp\obj\Debug\net8.0\FirstConApp.AssemblyInfo.cs
+D:\DevopsTraining\Day-1\FirstConApp\obj\Debug\net8.0\FirstConApp.csproj.CoreCompileInputs.cache
+D:\DevopsTraining\Day-1\FirstConApp\obj\Debug\net8.0\FirstConApp.dll
+D:\DevopsTraining\Day-1\FirstConApp\obj\Debug\net8.0\refint\FirstConApp.dll
+D:\DevopsTraining\Day-1\FirstConApp\obj\Debug\net8.0\FirstConApp.pdb
+D:\DevopsTraining\Day-1\FirstConApp\obj\Debug\net8.0\FirstConApp.genruntimeconfig.cache
+D:\DevopsTraining\Day-1\FirstConApp\obj\Debug\net8.0\ref\FirstConApp.dll
