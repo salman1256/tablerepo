@@ -12,3 +12,4 @@ D:\DevopsTraining\Day-1\FirstConApp\obj\Debug\net8.0\refint\FirstConApp.dll
 D:\DevopsTraining\Day-1\FirstConApp\obj\Debug\net8.0\FirstConApp.pdb
 D:\DevopsTraining\Day-1\FirstConApp\obj\Debug\net8.0\FirstConApp.genruntimeconfig.cache
 D:\DevopsTraining\Day-1\FirstConApp\obj\Debug\net8.0\ref\FirstConApp.dll
+D:\DevopsTraining\Day-1\FirstConApp\obj\Debug\net8.0\FirstConApp.sourcelink.json
